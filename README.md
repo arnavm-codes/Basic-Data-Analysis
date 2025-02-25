@@ -11,15 +11,15 @@ This project analyzes electric vehicle (EV) registration data using Python and d
 
 - Visualization:
 
- - Top Electric Vehicle Manufacturers: A bar chart displaying the most popular EV brands, categorized by electric vehicle type.
+ -  Top Electric Vehicle Manufacturers: A bar chart displaying the most popular EV brands, categorized by electric vehicle type.
 
- - Model Year Distribution: A histogram visualizing the frequency of EV production years.
+ -  Model Year Distribution: A histogram visualizing the frequency of EV production years.
 
- - Electric Range Analysis: A boxplot showing the distribution of EV ranges and identifying potential outliers.
+ -  Electric Range Analysis: A boxplot showing the distribution of EV ranges and identifying potential outliers.
 
- - County-wise EV Registrations: A bar plot representing the top 10 counties with the highest EV registrations.
+ -  County-wise EV Registrations: A bar plot representing the top 10 counties with the highest EV registrations.
 
- - Correlation Heatmap: A heatmap illustrating relationships between numerical variables in the dataset.
+ -  Correlation Heatmap: A heatmap illustrating relationships between numerical variables in the dataset.
 
 ### Insights and Observations
 
