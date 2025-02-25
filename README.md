@@ -39,12 +39,12 @@ The dataset is publicly available on Kaggle and can be accessed using the follow
 
 Link: https://www.kaggle.com/datasets/ratikkakkar/electric-vehicle-population-data
 
-### Requirements
+### Requirements (including liberaries)
 
-Python 3.x
+- Python
 
-Pandas
+- Pandas
 
-Matplotlib
+- Matplotlib
 
-Seaborn
+- Seaborn
