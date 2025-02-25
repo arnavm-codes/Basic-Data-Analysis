@@ -33,6 +33,12 @@ This project analyzes electric vehicle (EV) registration data using Python and d
 
 - Feature Correlations: The heatmap showcases relationships between different numerical attributes, helping in further predictive analysis.
 
+### Dataset
+
+The dataset is publicly available on Kaggle and can be accessed using the following link:
+
+Link: https://www.kaggle.com/datasets/ratikkakkar/electric-vehicle-population-data
+
 ### Requirements
 
 Python 3.x
